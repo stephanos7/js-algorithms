@@ -1,1 +1,1 @@
-# js-binary-search
+# js-algorithms
